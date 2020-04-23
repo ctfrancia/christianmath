@@ -3,8 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/ctfrancia/handson/writing-documentation/christianmath"
-	// "github.com/ctfrancia/christianmath"
+	"github.com/ctfrancia/christianmath"
 )
 
 func main() {
