@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/ctfrancia/christianmath"
+	christianmath "github.com/ctfrancia/christianmath/mymath"
 )
 
 func main() {
